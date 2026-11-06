@@ -83,18 +83,6 @@ DenseNet121 is also considered as an alternative CNN architecture.
 
 Model-specific training configurations are used, and model checkpoints are saved for reproducibility and subsequent evaluation.
 
-### 6. Model Evaluation and Ensemble Learning
-
-Model performance is evaluated using classification and calibration metrics:
-
-- AUROC
-- Accuracy
-- Sensitivity
-- Specificity
-- Positive Predictive Value (PPV)
-- Negative Predictive Value (NPV)
-- Calibration Curve
-- Brier Score
 
 Further analysis includes:
 
